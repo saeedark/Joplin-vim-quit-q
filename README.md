@@ -13,3 +13,4 @@ For example :
 ```bash
 ~/.joplin-bin/lib/node_modules/joplin
 ```
+But wait , It's easier to copy ```bash command-exit.js``` content and put it in ```bash command-q.js``` beside ;))
